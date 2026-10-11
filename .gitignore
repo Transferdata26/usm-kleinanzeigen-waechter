@@ -1,0 +1,6 @@
+ntfy_topic.txt
+waechter.log
+fehler.log
+__pycache__/
+gesehen-lokal.json
+treffer-lokal.csv
